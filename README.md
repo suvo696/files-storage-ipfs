@@ -1,4 +1,4 @@
-# Music-share-platform-through-Blockchain
+# Files-share-platform-through-Blockchain
 
 This is a simple implementation of uploading music using IPFS and storing their hash address in the mongoDB so that anytime it can be accessed. 
 
